@@ -6,9 +6,9 @@ const displayedImage = document.querySelector('.displayed-img');
   
  /* Declaring the array of image filenames */ 
   
- const images = ['itachi.jpg', `naruto.jpg`, `obito.jpg`, `kakashi.jpg`, `pain.jpg`]; 
+ const images = ['itachiuchiha.jpg', `naruto.jpg`, `obito.jpg`, `kakashi.jpg`, `pain.jpg`]; 
  const alts = { 
-   'itachi.jpg' : 'THE GOD', 
+   'itachiuchiha.jpg' : 'THE GOD', 
    'naruto.jpg' : 'GEM',
    'obito.jpg' : 'DARK', 
    'kakashi.jpg' : 'chidori', 
